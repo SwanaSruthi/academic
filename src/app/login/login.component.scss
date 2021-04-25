@@ -1,0 +1,70 @@
+            .bg
+            {
+                background:url('https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-01.jpg');
+                background-repeat: no-repeat;
+                background-position: center center;
+                background-attachment: fixed;
+                height: 450px;
+            }
+        
+            .form-group
+            {
+                background-color:rgba(0, 0, 0, 0.37);
+                color: white;
+                margin-left:430px;
+                margin-top:20px;
+                margin-bottom:100px;
+                border-radius:35px;
+                text-align: center;
+                width: 35%;
+            }
+            .input-field 
+            {
+                width: 60%;
+                padding: 5px;
+                outline: none;
+            }
+            .input-field:focus
+            {
+                border: 2px solid dodgerblue;
+            }
+            .b4
+            {
+                color:white;
+                text-align: center;
+                font-family:Tekton Pro;
+            }
+            body
+            {
+                background-repeat: no-repeat;
+            }
+            .icon 
+            {
+                padding: 10px;
+                background: black;
+                color: white;
+                min-width: 50px;
+                text-align: center;
+               
+            }
+            .group1
+            {
+                display: -ms-flexbox;
+                display: flex;
+                width: 100%;
+                margin-bottom: 15px;
+                text-align: center;
+                margin-left: 70px;
+            }
+            .imgcontainer
+            {
+                text-align: center;
+                margin: 10px 0 6px 0;
+                position: relative;
+            }
+            .person
+            {
+                width: 100px;
+                border-radius: 70%;
+            }
+    
